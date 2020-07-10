@@ -6,7 +6,8 @@
 
 My name is Lucas and I'm Robotic Process Automation Developer.
 
-* :man_student: I'm Science Computer Student</li>
-* :robot: RPA Developer</li>
-* :sparkling_heart: In love with Python</li>
-* :rocket: Learning More About ML and IA</li>
+* :man_student: I'm Science Computer Student
+* :robot: RPA Developer
+* :sparkling_heart: In love with Python
+* :rocket: Learning More About ML and IA
+* :cloud: Also Cloud Computing
